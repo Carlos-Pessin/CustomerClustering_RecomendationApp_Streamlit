@@ -52,10 +52,10 @@ st.markdown(
     """
 ## Suggestions
 
-    This analisys shows that the most profitable cluster is the one labeled 0 (High Frequency and smaller Mean Ticket), followed by clusters 1 and 2. In fact, cluster 0 clients spent 7 times more in average than cluster 1 and 14 times more than cluster 2 clients.
+This analisys shows that the most profitable cluster is the one labeled 0 (High Frequency and smaller Mean Ticket), followed by clusters 1 and 2. In fact, cluster 0 clients spent 7 times more in average than cluster 1 and 14 times more than cluster 2 clients.
 
-    Therefore, the company can increase its earnings by increasing frequency of purchases, so it would be interest for the company to set strategies to retain customers, even if it requires to reduce prices. 
+Therefore, the company can increase its earnings by increasing frequency of purchases, so it would be interest for the company to set strategies to retain customers, even if it requires to reduce prices. 
 
-    Another strategy is to implement a recomendation system to the company's website, as described before.
+Another strategy is to implement a recomendation system to the company's website, as described before.
     """
 )
