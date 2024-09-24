@@ -23,7 +23,7 @@ def make_recomendation_byitens(client, n_itens=10):
     sparse_itens_client = pd.read_csv('data/sparse_itens_client.csv').set_index('CustomerID')
     
     similarity_matrix = pd.DataFrame(cosine_similarity(sparse_itens_client))
-    similarity_matrix.index = sparse_itens_client.index.astype(str)
+    similarity_matrix.index = sparse_itens_client.index.astype(float)
     similarity_matrix.index.name = 'id'
     similarity_matrix.columns = sparse_itens_client.index.astype(str)
 
