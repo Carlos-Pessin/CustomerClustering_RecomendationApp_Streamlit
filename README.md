@@ -26,3 +26,10 @@ The provided data contains information on purchase transactions from an e-commer
 ## Deployed at Streamlit
 [Link](https://customerclusteringrecomendationapp.streamlit.app/)
 
+## Final Report
+This analisys shows that the most profitable cluster is the one woth high frequency and smaller Mean Ticket, followed by low frequency and high Mean Ticket clients and then by high frequency and low Mean Ticket clients. In fact, the first cluster clients spent 7 times more in average than the second and 14 times more than third.
+
+Therefore, the company can increase its earnings by increasing frequency of purchases, so it would be interest for the company to set strategies to retain customers, even if it requires to reduce prices.
+
+Another strategy is to implement a recomendation system so the company's website, as described before.
+
